@@ -1,15 +1,11 @@
-<h1 align="center">Hi, I'm Joaquín</h1>
-<h3 align="center">A passionate data scientist from Chile (& a citizen of the world)</h3>
+<h2 align="center">Hi, I'm Joaquín</h2>
+<h3 align="center">A passionate full stack data scientist</h3>
 
-- 🔭 I’m currently working on **FairShare**
+- 🔭 I’m currently working on **FairShare (A groups expense management mobile app)**
 
-- 🌱 I’m currently learning **Databases with Python, React, ML, NLP & Dash**
+- 🌱 I’m currently learning **Django and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Data Science, web dev & entrepreneurial projects**
-
-- 🤝 I’m looking for help with **Time-series ML algorithms applied to demand forecasting**
-
-- 💬 Ask me about **Developing Python projects, Data Science assistant teaching**
+- 👯 I’m looking to collaborate on **Web dev, data science & entrepreneurial projects**
 
 - 📫 How to reach me **joaquinandresortega84@gmail.com**
 
@@ -17,10 +13,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joaqu%c3%adn-ortega7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaqu%c3%adn-ortega7/" height="30" width="40" /></a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
@@ -33,4 +29,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
-
+ -->
