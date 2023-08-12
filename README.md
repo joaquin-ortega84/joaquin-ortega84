@@ -1,11 +1,11 @@
 <h2 align="center">Hi, I'm Joaquín</h2>
-<h3 align="center">A passionate full stack data scientist</h3>
+<h3 align="center">I can make web apps, ML/NLP models, and derive great insights from data</h3>
 
-- 🔭 I’m currently working on **FairShare (A groups expense management mobile app)**
+- 🔭 I’m currently working on **FairShare - an app to manage group expenses**
 
-- 🌱 I’m currently learning **Django and Machine Learning**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Web dev, data science & entrepreneurial projects**
+- 👨‍💻 I’m looking to collaborate on **Web dev, data science & entrepreneurial projects**
 
 - 📫 How to reach me **joaquinandresortega84@gmail.com**
 
