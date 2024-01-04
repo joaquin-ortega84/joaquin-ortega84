@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Joaquín</h2>
 <h3 align="center">Junior Data Scientist / Analyst </h3>
 
-- 🔭 I’m currently working on **a ingredient detection model for a AI driven recipes recommendation app**
+- 🔭 I’m currently working on **an ingredient detection model for a AI driven recipes recommendation app**
 
 - 🌱 I’m currently also **Teaching Assistant at Le Wagon's Data Science Bootcamp**
 
