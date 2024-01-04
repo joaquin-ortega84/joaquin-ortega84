@@ -1,11 +1,11 @@
 <h2 align="center">Hi, I'm Joaquín</h2>
-<h3 align="center">Data Scientist & Analyst</h3>
+<h3 align="center">Junior Data Scientist / Analyst </h3>
 
-- 🔭 I’m currently working on **a trading web app built on Dash with Python**
+- 🔭 I’m currently working on **a ingredient detection model for a AI driven recipes recommendation app**
 
 - 🌱 I’m currently also **Teaching Assistant at Le Wagon's Data Science Bootcamp**
 
-- 👨‍💻 I’m looking to collaborate on **Data Science, Trading, & Entrepreneurial Projects**
+- 👨‍💻 I’m looking to collaborate on **Data Analytics, Data Science and freelance projects**
 
 - 📫 How to reach me **joaquinandresortega84@gmail.com**
 
