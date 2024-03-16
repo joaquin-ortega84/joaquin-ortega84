@@ -1,12 +1,6 @@
 <h2 align="center">Hi, I'm Joaquín</h2>
 <h3 align="center">Data Scientist & Data Analyst </h3>
 
-- 🔭 I’m currently working on **Making Dynamic Dashboards for Clients & AI recommendation systems**
-
-- 🌱 I’m currently also **Teaching Assistant at Le Wagon's Data Science Bootcamp**
-
-- 👨‍💻 I’m looking to collaborate on **Data Science, Data Analytics, Entrepreneurial & Data Freelance Projects**
-
 - 📫 How to reach me **joaquinandresortega84@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
