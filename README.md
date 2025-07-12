@@ -1,21 +1,18 @@
-### Hi, I'm Joaquín 👋 
----
+#### Hi, I'm Joaquín 👋
 
-I am a data scientist and business intelligence analyst based in Barcelona. 
-My journey began in sales & customer success, where I always emphasized analytics to drive insights and strategies.
+I'm a Business Intelligence professional with a background in international management and economics.
+I bring a strong foundation in data science, analytics, and data engineering, and I'm currently based in Madrid.
 
-My passion for programming sparked early on and has led me to work on diverse data science and analytics projects. I leverage Python, SQL, APIs, machine learning, dashboards, and cloud tools to create impactful projects with data.
+My career began in sales and customer success, where I consistently used analytics to uncover insights and develop strategies that optimized client performance and delivered value.
 
----
-- 🎓 I am a teaching assistant at Le Wagon's coding bootcamp in Barcelona for Data Science (face to face & online)
-- 💼 I am working on portfolio pieces, happy to collaborate
-- 🌍 I am looking for a full-time offer to work as a Data Analyst / BI Analyst ideally in Barcelona, Madrid, or Dubai
----
+A passion for programming sparked early in my journey and has driven me to work on a wide range of data science and analytics projects. I use Python, SQL, APIs, machine learning, dashboards, and cloud tools to turn data into impactful solutions.
 
-Check out my projects:
- 1. HateScan 📢
- 2. EpicureAI 🍲
- 3. World Startup Success 🚀
- 4. Many more 💼
-    
-📫 How to reach me: joaquinandresortega84@gmail.com
+##### Check out my projects:
+- HateScan 📢
+- EpicureAI 🍲
+- World Startup Success 🚀
+
+And many more... 💼
+
+📫 Reach me at: joaquinandresortega84@gmail.com
+
