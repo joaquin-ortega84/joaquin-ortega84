@@ -1,16 +1,14 @@
 #### Hi, I'm Joaquín 👋
 
-I'm a Business Intelligence professional with a background in international management and economics.
-I bring a strong foundation in data science, analytics, and data engineering, and I'm currently based in Madrid.
+I'm a Business Intelligence professional with an acacemic background in BScEcnomics and MSc International Management.
+On top I have developed a strengths for data analytics and data visualization. I have professional experience working for technology and IT Software companies where I have leveraged a blend of data science, business intelligence technical skills hand in hand with strategic vision, insights, and business value.
 
-My career began in sales and customer success, where I consistently used analytics to uncover insights and develop strategies that optimized client performance and delivered value.
-
-A passion for programming sparked early in my journey and has driven me to work on a wide range of data science and analytics projects. I use Python, SQL, APIs, machine learning, dashboards, and cloud tools to turn data into impactful solutions.
+I am currently based in Madrid.
 
 ##### Check out my projects:
-- HateScan 📢
-- EpicureAI 🍲
-- World Startup Success 🚀
+- HateScan 📢 : Hate Speech Recognition Deep Learning Model Classifying Tweets and Twitter Accounts into Hate Speech buckets. Spatial visualizations included.
+- EpicureAI 🍲 : A object recognition model that helps you build recipes based on ingredients found at home or anywhere with you simply by uploading a picture
+- World Startup Success 🚀 : Predicts whether a startup will succeed based on company information parameters.
 
 And many more... 💼
 
