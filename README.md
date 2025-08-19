@@ -1,16 +1,37 @@
-#### Hi, I'm Joaquín 👋
+# 👋 Hi, I'm Joaquín  
 
-I'm a Business Intelligence professional with an acacemic background in BScEcnomics and MSc International Management.
-On top I have developed a strengths for data analytics and data visualization. I have professional experience working for technology and IT Software companies where I have leveraged a blend of data science, business intelligence technical skills hand in hand with strategic vision, insights, and business value.
+I’m a **Business Intelligence professional** with a background in **Economics (BSc)** and **International Management (MSc)**.  
+I specialize in **data analytics** and **data visualization**, combining technical BI skills with strategic vision to deliver insights and business value.  
 
-I am currently based in Madrid.
+I have professional experience in the **technology and IT software industry**, where I bridge the gap between **data science** and **business strategy**.  
 
-##### Check out my projects:
-- HateScan 📢 : Hate Speech Recognition Deep Learning Model Classifying Tweets and Twitter Accounts into Hate Speech buckets. Spatial visualizations included.
-- EpicureAI 🍲 : A object recognition model that helps you build recipes based on ingredients found at home or anywhere with you simply by uploading a picture
-- World Startup Success 🚀 : Predicts whether a startup will succeed based on company information parameters.
+📍 Based in **Madrid, Spain**
 
-And many more... 💼
+---
 
+## 🚀 Featured Projects  
+
+- **HateScan 📢**  
+  Deep learning model for **hate speech recognition**, classifying tweets and Twitter accounts into categories.  
+  Includes **spatial visualizations** of hate speech distribution.  
+
+- **EpicureAI 🍲**  
+  An **object recognition model** that helps you build recipes from ingredients.  
+  Simply upload a picture of ingredients found at home (or anywhere), and get suggested recipes.  
+
+- **World Startup Success 🚀**  
+  Machine learning model that predicts whether a startup will succeed, based on **company information parameters**.  
+
+💼 *And many more projects exploring data science, AI, and business intelligence!*  
+
+
+
+## 📫 Get in Touch  
+
+- 📧 Email: [joaquinandresortega84@gmail.com](mailto:joaquinandresortega84@gmail.com)  
+- 🌍 Based in Madrid  
+
+---
+✨ Always exploring the intersection of **data, AI, and business strategy**.
 📫 Reach me at: joaquinandresortega84@gmail.com
 
